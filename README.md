@@ -18,4 +18,32 @@ marp : true
 
 ## step 4 : Download Jenkins ( link : https://www.jenkins.io/download/ ) 
 
+- ## Click according to the OS (here we are using windows OS )
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/f08634af-36b3-468a-9a6b-b34e33cbcb00)
+
+- ## Now follow the steps below as shown :
+- click on next
+  
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/a52aac98-6953-47e0-a56a-3ace54db4153) 
+
+- set the default path
+  
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/43c082ff-ab2a-4a9b-b228-6b32f928fe4c)
+
+- select first
+  
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/6af2dec6-9a7e-4068-9f64-9d0fde23fc66)
+
+- test the port
+
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/e8702afe-495e-46fa-8f6f-4dd7f7df4ca7)
+
+![image](https://github.com/BroLetsCodeIt/Jenkins_Installation/assets/113767803/bdd4c820-9a21-44d4-85b2-482a70bff622)
+
+in the browser open : localhost:8080
+
+
+  
+
+
            
